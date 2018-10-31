@@ -6,8 +6,9 @@
 # Include functions.bash
 source .anax/scaffold/functions.bash
 
-# Get items from config/.
+# Get/remove items from config/.
 rsync -a vendor/anax/anax-ramverk1-me/config ./
+rm -f config/navbar.php
 
 # Get items from content/.
 rsync -a vendor/anax/anax-ramverk1-me/content ./
@@ -20,11 +21,7 @@ rsync -a vendor/anax/anax-ramverk1-me/htdocs ./
 rm htdocs/css/style.css
 
 # Get/remove items from src/.
-rm -rf src/Controller
 rsync -a vendor/anax/anax-ramverk1-me/src ./
-
-# Remove phpunit tests.
-rm -rf .phpunit.xml test/
 
 # Get the Makefile.
 rsync -a vendor/anax/anax-ramverk1-me/Makefile ./

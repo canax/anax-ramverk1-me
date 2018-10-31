@@ -1,12 +1,12 @@
 ---
 title: "Min fina titel"
 ---
-Min me-sida i kursen design
+Min me-sida i kursen ramverk1
 =========================
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/me.jpg?w=400" class="right" caption="Bild på mig"]
 
 Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
 

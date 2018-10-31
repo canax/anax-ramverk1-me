@@ -17,9 +17,7 @@ Du kan visa gridet för godtycklig sida genom att lägga till `?hgrid` i slutet 
 Ett magiskt nummer
 -------------------------
 
-
-
-
+TBD.
 
 
 
