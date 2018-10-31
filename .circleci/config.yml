@@ -42,6 +42,6 @@ notify:
         # canax
         - url: https://webhooks.gitter.im/e/c8ff44f50de935adf880
         # canax/anax-ramverk1-me
-        #- url: https://webhooks.gitter.im/e/c67a9ebdb0a77a3528bc
+        - url: https://webhooks.gitter.im/e/5f3f53a97e274a58fa26
         # dbwebb-se/ramverk1
         - url: https://webhooks.gitter.im/e/40c2589926b728a29a2a
