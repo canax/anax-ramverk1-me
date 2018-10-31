@@ -5,7 +5,7 @@ Anax Ramvker1 Me
 [![Join the chat at https://gitter.im/canax/anax-ramverk1-me](https://badges.gitter.im/canax/anax-ramverk1-me.svg)](https://gitter.im/canax/anax-ramverk1-me?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/canax/anax-ramverk1-me.svg?branch=master)](https://travis-ci.org/canax/anax-ramverk1-me)
-[![CircleCI](https://circleci.com/gh/canax/anax-ramverk1-me.svg?style=svg)](https://circleci.com/gh/canax/anax-ramverk1-me)
+[![CircleCI](https://circleci.com/gh/canax/anax-ramverk1-me.svg?style=svg)](https://circleci.com/gh/canax/anax-ramverk1-me) [![Join the chat at https://gitter.im/canax/anax-ramverk1-me](https://badges.gitter.im/canax/anax-ramverk1-me.svg)](https://gitter.im/canax/anax-ramverk1-me?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 A me page for the ramverk1 course.
