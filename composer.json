@@ -25,5 +25,8 @@
         "anax/database": "^2.0.0",
         "anax/cache": "^2.0.0@beta",
         "anax/content": "^2.0.0@beta"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
     }
 }
