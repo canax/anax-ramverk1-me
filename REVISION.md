@@ -8,6 +8,7 @@ v1.0.* (2018-11-12)
 
 * Adding article on 'Vyer och Templatefiler'.
 * Adding article on 'Styla en route'.
+* Update articles on 'grid'.
 
 
 
