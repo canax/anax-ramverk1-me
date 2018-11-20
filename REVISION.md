@@ -3,6 +3,13 @@ Revision history
 
 
 
+v1.0.8 (2018-11-20)
+---------------------------------
+
+* Add support for anax/proxy in htdocs/index.php, disable by default.
+
+
+
 v1.0.7 (2018-11-12)
 ---------------------------------
 
