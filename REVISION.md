@@ -3,6 +3,14 @@ Revision history
 
 
 
+v1.0.9 (2019-10-29)
+---------------------------------
+
+* Use separate cache for tests.
+* Update Makefile to latest version.
+
+
+
 v1.0.8 (2018-11-20)
 ---------------------------------
 
