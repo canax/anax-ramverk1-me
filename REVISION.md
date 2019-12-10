@@ -3,6 +3,13 @@ Revision history
 
 
 
+v1.0.13 (2019-12-10)
+---------------------------------
+
+* Remove navbar from installation to use anax/navigation instead.
+
+
+
 v1.0.12 (2019-11-21)
 ---------------------------------
 
