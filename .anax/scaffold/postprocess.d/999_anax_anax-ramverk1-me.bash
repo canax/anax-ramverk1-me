@@ -25,7 +25,8 @@ rsync -a vendor/anax/anax-ramverk1-me/htdocs ./
 rm htdocs/css/style.css
 
 # Get/remove items from src/.
-rsync -a vendor/anax/anax-ramverk1-me/src ./
+#rsync -a vendor/anax/anax-ramverk1-me/src ./
+install -d src
 
 # Copy the source for Controllers.
 rsync -a vendor/anax/controller/src/Controller/{Development,ErrorHandler,FlatFileContent,Sample,SampleJson}Controller.php ./src/Controller/

@@ -7,6 +7,7 @@ v1.1.0 (2020-11-27)
 ---------------------------------
 
 * Remove included views, not needed.
+* Remove StyleChooser, not needed.
 
 
 
