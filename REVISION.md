@@ -3,7 +3,14 @@ Revision history
 
 
 
-v1.0.15 (2020-04-03)
+v1.1.0 (2020-11-27)
+---------------------------------
+
+* Remove included views, not needed.
+
+
+
+v1.0.15 (2020-11-27)
 ---------------------------------
 
 * Update Makefile with latest version of phpmd.

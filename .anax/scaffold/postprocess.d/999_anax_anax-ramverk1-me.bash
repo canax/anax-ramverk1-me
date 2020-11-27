@@ -40,8 +40,8 @@ rsync -a vendor/anax/page/src/Page/Page.php ./src/Page/
 rsync -a vendor/anax/anax-ramverk1-me/Makefile ./
 
 # Get own copy of view files.
-rsync -a vendor/anax/view/view/anax/v2 ./view/anax/
-rsync -a vendor/anax/anax-ramverk1-me/view ./
+#rsync -a vendor/anax/view/view/anax/v2 ./view/anax/
+#rsync -a vendor/anax/anax-ramverk1-me/view ./
 
 # Change baseTitle
 sedi "s/ | Anax/ | ramverk1/g" config/page.php
