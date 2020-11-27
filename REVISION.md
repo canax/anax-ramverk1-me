@@ -3,6 +3,13 @@ Revision history
 
 
 
+v1.0.15 (2020-04-03)
+---------------------------------
+
+* Update Makefile with latest version of phpmd.
+
+
+
 v1.0.14 (2020-04-03)
 ---------------------------------
 
